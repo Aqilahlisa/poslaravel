@@ -16,6 +16,11 @@
                     <div class="card-header">
                         <a href="" class="btn btn-primary">Tambah</a>
                     </div>
+                    <div class="card-body">
+                        <div class="form-group">
+
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
