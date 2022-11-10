@@ -17,8 +17,18 @@
                         <a href="" class="btn btn-primary">Tambah</a>
                     </div>
                     <div class="card-body">
-                        <div class="form-group">
-
+                        <div class="table-responsive">
+                            <table class="table table-bordered">
+                                <thead>
+                                    <tr>
+                                        <th>#</th>
+                                        <th>Nama Kategori</th>
+                                        <th>Description</th>
+                                        <th>Tools</th>
+                                    </tr>
+                                </thead>
+                                <tbody></tbody>
+                            </table>
                         </div>
                     </div>
                 </div>
